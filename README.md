@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Mi nombre es Mariel Sdenka Crespo Calero soy estudiante de la carrera ingenieria de Sistemas de la universidad Mayor de San Simon
+
+"Cada error es solo una pista más en el camino al código perfecto. Compila tus sueños, depura tus miedos y nunca dejes de ejecutar tus pasiones."
+
 <!--
 **SdenkaCrespo/SdenkaCrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
